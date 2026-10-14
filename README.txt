@@ -1,6 +1,17 @@
-BOUTIQUENI MUSLIMAH — LANDING PAGE
+BOUTIQUINI MUSLIMAH — Landing Page
 
-Buka index.html di browser.
-File: index.html, style.css, script.js, assets/*.svg
-Gambar merupakan ilustrasi konsep, bukan foto produk asli.
-Ganti email contoh dan tambahkan kontak resmi sebelum publikasi.
+Cara menjalankan:
+1. Ekstrak ZIP.
+2. Buka folder boutiquini-muslimah.
+3. Klik dua kali index.html di browser.
+
+Isi:
+- index.html: konten dan struktur
+- style.css: desain dan responsive
+- script.js: menu mobile dan tahun footer
+
+PENTING:
+- Foto adalah placeholder fashion dari Unsplash dan membutuhkan internet. Ganti dengan foto abaya/hijab asli milik butik agar produk sesuai.
+- Email hello@boutiquini.example adalah contoh; ganti dengan kontak asli sebelum dipublikasikan.
+- Font Google membutuhkan internet; font cadangan tersedia.
+- Situs ini landing page, belum memiliki keranjang/checkout.
