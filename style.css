@@ -2,3 +2,6 @@
 
 /* Boutiqueni Muslimah refinements */
 .logo{font-size:clamp(19px,2.2vw,29px);letter-spacing:-1.2px}.logo span{font-size:.79em}.hero-image{background-position:center;background-size:cover}.collection-card img,.product-image img,.story-photo img{object-fit:cover}.collection-card{background:#e8d6c8}.hero-sticker{font-size:21px}.hero-sticker i{font-size:17px}
+
+/* Konten tetap terlihat jika JavaScript tidak berjalan. */
+.reveal{opacity:1;transform:none}

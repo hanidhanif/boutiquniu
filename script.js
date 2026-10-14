@@ -9,7 +9,8 @@ nav.querySelectorAll('a').forEach(link => link.addEventListener('click', () => {
   nav.classList.remove('open');
   toggle.setAttribute('aria-expanded', 'false');
 }));
-document.getElementById('year').textContent = new Date().getFullYear();
+const yearElement = document.getElementById('year');
+if (yearElement) yearElement.textContent = new Date().getFullYear();
 if ('IntersectionObserver' in window) {
   const observer = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
